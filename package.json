@@ -1,0 +1,29 @@
+
+{
+  "name": "D3_line",
+  "version": "1.0.0",
+  "description": "D3 line chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3",
+    "line",
+    "chart"
+  ],
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react-fatigue-dev": ""
+  },
+  "dependencies": {
+    "d3": "^4.3.0"
+  },
+  "main": "build/index.js"
+}
