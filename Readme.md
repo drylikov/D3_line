@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ npm install d3-line
+$ npm install d3_line
 ```
 
 ## Usage
